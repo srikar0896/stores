@@ -102,7 +102,7 @@
          "flow":7
       }
    ],
-   "balance": {
+   "balance_details": {
       "apl_balance": "111.0",
       "is_apl_registered": true
    }
