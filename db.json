@@ -101,5 +101,9 @@
          "time":"2020-06-25 09:06:22.690115",
          "flow":7
       }
-   ]
+   ],
+   "balance": {
+      "apl_balance": "111.0",
+      "is_apl_registered": true
+   }
 }
